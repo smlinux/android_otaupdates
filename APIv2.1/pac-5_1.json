@@ -1,0 +1,35 @@
+[
+  {
+    "name": "August 2016 test",
+    "filename": "cm-13.0-20160811-MM2.0-i9300.zip",
+    "md5": "ce21cd30d997e0fe35f280ee5ec98c7b",
+    "size": 315909813,
+    "builddate": 1470934360,
+    "releasedate": 1470938828000,
+    "device": "m0",
+    "url": "https://maxmustermann20.ocloud.de/s/DnQUHoONUnabiAi/download",
+    "patchlevel": 0,
+    "changelog": [
+      "ArchiDroid optimizations",
+      "Updated sources",
+      "August security patches"
+    ]
+  },
+  {
+    "name": "July 2016 test",
+    "filename": "cm-13.0-20160714-MM2.0-i9300.zip",
+    "md5": "0b3f899440d2c0b7ffd09bbef15a94aa",
+    "size": 316164589,
+    "builddate": 1468538300,
+    "releasedate": 1468922292000,
+    "device": "m0",
+    "url": "https://maxmustermann20.ocloud.de/s/ImqHg0inRkcxVI9/download",
+    "patchlevel": 0,
+    "changelog": [
+      "Trebuchet: add dark status bar icons option",
+      "OTAUpdater: updated OTA API to v2.1",
+      "Updated sources",
+      "July security patches"
+    ]
+  }
+]

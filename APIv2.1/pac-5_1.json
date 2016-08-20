@@ -1,6 +1,6 @@
 [
   {
-    "name": "OTA test",
+    "name": "OTA test (Clean caches)",
     "filename": "pac51-test-OTA.zip",
     "md5": "822e608fe48035c390b25243d425f5fd",
     "size": 177849,
@@ -10,9 +10,9 @@
     "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/ztEUPloYuKKZM",
     "patchlevel": 0,
     "changelog": [
-      "Test message1",
-      "Test message2",
-      "Test message3"
+      "This is a test update",
+      "It does not bear any changes",
+      "Just clear your cache and dalvik-cache"
     ]
   }
 ]

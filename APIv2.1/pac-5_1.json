@@ -14,5 +14,20 @@
       "It does not bear any changes",
       "Just clear your cache and dalvik-cache"
     ]
+  },
+  {
+    "name": "NFC fix",
+    "filename": "pac51_NFC_fix_20082016.zip",
+    "md5": "ac020ebba46c8f15d312b223adffa979",
+    "size": 1288647,
+    "builddate": 1471717472,
+    "releasedate": 1471728180000,
+    "device": "msm8916_32",
+    "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/u1jlpXIBuMoEq",
+    "patchlevel": 0,
+    "changelog": [
+      "NFC fix",
+      "Now NFC work"
+    ]
   }
 ]

@@ -1,0 +1,14 @@
+  {
+    "name": "test-boot.zip",
+    "filename": "test-boot.zip",
+    "md5": "75990ea00a4d2bd27281608de3b8fdfa",
+    "size": 11907954,
+    "builddate": 1487341552,
+    "releasedate": 1487367991000,
+    "device": "axonmini",
+    "url": "https://getfile.dokpub.com/yandex/get/https://yadi.sk/d/0Qqy47iD3EDpLr",
+    "patchlevel": 0,
+    "changelog": [
+      "Test boot image"
+    ]
+  }
